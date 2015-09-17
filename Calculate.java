@@ -1,3 +1,7 @@
+// class Calculate
+// adding arguments, separated by spaces
+// version 1.0
+
 public class Calculate {
  public static void main(String[] args) {
   int total = 0;
