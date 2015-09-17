@@ -15,8 +15,7 @@ public class MyFunctions {
 			System.out.println("The number " + passedValue + " is equal 10");
 		}
 		// Code to check if the number is less than 10
-		else if( passedValue < 10) {
+		else 
 			System.out.println("The number " + passedValue + " is less than 10");
-		}
 	}
 }
