@@ -5,7 +5,8 @@ public class MonthName {
 		
 		String month = "";
 		Boolean error = false;
-		int i = Integer.parseInt(args[0]);
+		//int i = Integer.parseInt(args[0]);
+		byte i = Byte.parseByte(args[0]);
 		
 		switch (i) {
 
